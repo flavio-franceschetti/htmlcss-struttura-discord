@@ -33,3 +33,19 @@ nav {
   display: flex;
   gap: 15px;
 }
+
+/* HERO SECTION */
+
+.hero-section {
+  background-color: blue;
+  min-height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-content {
+  width: 800px;
+  height: 400px;
+  background-color: pink;
+}
