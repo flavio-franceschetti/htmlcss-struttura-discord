@@ -54,7 +54,7 @@ nav {
 /* FEATURE SECTION */
 
 .feature-block {
-  padding: 20px;
+  padding: 30px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -70,4 +70,14 @@ nav {
   width: 30%;
   height: 400px;
   background-color: pink;
+}
+
+.feature-block:nth-child(even) {
+  background-color: rgb(243, 243, 243);
+}
+
+.last-feature-content {
+  height: 800px;
+  width: 70%;
+  background-color: green;
 }
