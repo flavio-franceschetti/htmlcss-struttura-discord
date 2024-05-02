@@ -81,3 +81,18 @@ nav {
   width: 70%;
   background-color: green;
 }
+
+/* FOOTER */
+
+footer {
+  background-color: #23272a;
+  min-height: 600px;
+}
+
+.col-social {
+  background-color: #f85252;
+}
+
+.col-footer {
+  background-color: #5ca35c;
+}
