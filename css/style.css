@@ -12,6 +12,10 @@ a {
 
 /* REUSABLE */
 
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
 /* HEADER */
 
 .nav-section {
@@ -89,10 +93,25 @@ footer {
   min-height: 600px;
 }
 
+.first-footer-section {
+  padding: 20px 0;
+  border-bottom: 1px solid #fff;
+
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  align-items: center;
+}
+
 .col-social {
-  background-color: #f85252;
+  width: calc(100% / 4);
+  height: 400px;
+
+  background-color: rgb(228, 58, 11);
 }
 
 .col-footer {
-  background-color: #5ca35c;
+  height: 400px;
+  width: calc(100% / 6);
+  background-color: green;
 }
