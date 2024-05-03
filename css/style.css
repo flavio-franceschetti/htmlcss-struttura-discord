@@ -16,6 +16,7 @@ a {
   width: 70%;
   margin: 0 auto;
 }
+
 /* HEADER */
 
 .nav-section {
@@ -94,6 +95,7 @@ footer {
 }
 
 /* FIRST SECTION FOOTER */
+
 .first-footer-section {
   padding: 20px 0;
   border-bottom: 1px solid #fff;
@@ -119,6 +121,7 @@ footer {
 }
 
 /* SECOND SECTION FOOTER */
+
 .second-footer-section {
   background-color: aquamarine;
   padding: 20px 0;
